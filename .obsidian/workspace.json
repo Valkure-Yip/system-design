@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "a6dbee0c9aad1a1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2687b84414ea731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fd47860d5ab95b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de531a21329d6bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设计一个通知系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e16f9d29f48387b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设计一个通知系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a39e0986218d4022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设计一个聊天系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1706bfb6462cde77",
+    "type": "split",
+    "children": [
+      {
+        "id": "338c6a8a9dac37ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe2f7b4f757afc44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2c990b08eb6af38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "177e13533c292563",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.51103591918945
+  },
+  "right": {
+    "id": "bf2279266324f66c",
+    "type": "split",
+    "children": [
+      {
+        "id": "10724109021f7940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bfdcc86c08ae8fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "设计一个聊天系统.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "174c4f6516e6f507",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "设计一个聊天系统.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a11dfb1a1b7a2df3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9888bcd8251a90d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "设计一个聊天系统.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a39e0986218d4022",
+  "lastOpenFiles": [
+    "assets/设计一个聊天系统/file-20240908181517346.png",
+    "assets/设计一个聊天系统/file-20240908180847414.png",
+    "assets/设计一个聊天系统/file-20240908180626597.png",
+    "assets/设计一个聊天系统/file-20240908180603680.png",
+    "assets/设计一个聊天系统/file-20240908180242784.png",
+    "assets/设计一个聊天系统/file-20240908175942334.png",
+    "assets/设计一个聊天系统/file-20240908175832909.png",
+    "assets/设计一个聊天系统/file-20240908175502575.png",
+    "assets/设计一个聊天系统/file-20240908175348399.png",
+    "assets/设计一个聊天系统/file-20240908174125788.png",
+    "assets/设计一个聊天系统/file-20240908174107168.png",
+    "assets/设计一个聊天系统",
+    "Readme.md",
+    "设计一个聊天系统.md",
+    "设计一个通知系统.md",
+    "设计一个聊天系统",
+    "设计一个新闻提要系统.md",
+    "assets/设计一个新闻提要系统",
+    "assets/设计一个通知系统",
+    "网络爬虫设计.md",
+    "assets/网络爬虫设计",
+    "短网址设计.md",
+    "assets/短网址设计",
+    "key-value存储设计.md",
+    "一致性hash设计.md",
+    "assets/key-value存储设计",
+    "限流器.md",
+    "系统设计面试步骤.md",
+    "基本架构组件.md",
+    "assets/一致性hash设计",
+    "assets/限流器",
+    "System Design Interview An Insider’s Guide (Alex Xu) (Z-Library).pdf"
+  ]
+}
